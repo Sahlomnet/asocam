@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "laravel/asocam",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Sistema de administracion de burros y asnales de asocam.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
