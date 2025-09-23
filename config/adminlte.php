@@ -15,7 +15,7 @@ return [
     */
 
     'title' => '',
-    'title_prefix' => 'Brandaluz - ',
+    'title_prefix' => 'ASOCAM - ',
     'title_postfix' => '',
 
     /*
