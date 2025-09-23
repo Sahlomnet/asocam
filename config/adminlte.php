@@ -342,12 +342,6 @@ return [
             'active' => ['criadores', 'criadores/create', 'regex:@^criadores/[0-9]+$@', 'regex:@^criadores/[0-9]/edit+$@'],
         ],
         [
-            'text' => 'Propietarios',
-            'route'=> 'propietarios.index',
-            'icon' => 'fa fa-users',
-            'active' => ['propietarios', 'propietarios/create', 'regex:@^propietarios/[0-9]+$@', 'regex:@^propietarios/[0-9]/edit+$@'],
-        ],
-        [
             'text' => 'Catálogo',
             'icon' => 'fas fa-book',
             'submenu' => [

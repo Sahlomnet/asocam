@@ -22,7 +22,6 @@ return new class extends Migration
             $table->foreignId('color_id');
             $table->foreignId('category_id');
             $table->foreignId('breeder_id')->nullable();
-            $table->foreignId('owner_id')->nullable();
             $table->string('father_code')->nullable();
             $table->string('mother_code')->nullable();
             $table->longText('notes')->nullable();
@@ -49,12 +48,6 @@ return new class extends Migration
             $table->foreign('breeder_id')
                 ->references('id')
                 ->on('breeders')
-                ->onDelete('cascade')
-                ->onUpdate('cascade');
-
-            $table->foreign('owner_id')
-                ->references('id')
-                ->on('owners')
                 ->onDelete('cascade')
                 ->onUpdate('cascade');
 

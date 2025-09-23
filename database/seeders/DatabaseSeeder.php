@@ -26,7 +26,6 @@ class DatabaseSeeder extends Seeder
             CategorySeeder::class,
             AddressSeeder::class,
             BreederSeeder::class,
-            OwnerSeeder::class,
             SpecimenSeeder::class,
             SpecimenImgsSeeder::class,
         ]);

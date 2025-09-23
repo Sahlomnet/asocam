@@ -19,7 +19,6 @@ class Specimen extends Model
         'color_id',
         'category_id',
         'breeder_id',
-        'owner_id',
         'father_code',
         'mother_code',
         'notes',
@@ -31,9 +30,6 @@ class Specimen extends Model
     }
     
     // Relaciones Uno a Muchos Inversa
-    public function owner(){
-        return $this->belongsTo(Owner::class);
-    }
     public function sex(){
         return $this->belongsTo(Sex::class);
     }

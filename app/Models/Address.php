@@ -24,9 +24,6 @@ class Address extends Model
     ];
 
     // Relaciones Uno a Muchos
-    public function owner(){
-        return $this->hasMany(Owner::class);
-    }
     public function breeder(){
         return $this->hasMany(Breeder::class);
     }

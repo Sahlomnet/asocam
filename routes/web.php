@@ -39,7 +39,6 @@ Route::middleware([
     Route::resource('/colores', ColorController::class)->names('colores');
     Route::resource('/categorias', CategoryController::class)->names('categorias');
     Route::resource('/direcciones', AddressController::class)->names('direcciones');
-    Route::resource('/propietarios', OwnerController::class)->names('propietarios');
     Route::resource('/criadores', BreederController::class)->names('criadores');
     Route::resource('/ejemplares', SpecimensController::class)->names('ejemplares');
 

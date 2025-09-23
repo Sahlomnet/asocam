@@ -23,7 +23,6 @@ class SpecimenSeeder extends Seeder
         $specimen01->color_id = 1;
         $specimen01->category_id = 1;
         $specimen01->breeder_id = 1;
-        $specimen01->owner_id = 1;
         $specimen01->father_code = NULL;
         $specimen01->mother_code = NULL;
         $specimen01->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -39,7 +38,6 @@ class SpecimenSeeder extends Seeder
         $specimen02->color_id = 2;
         $specimen02->category_id = 1;
         $specimen02->breeder_id = 2;
-        $specimen02->owner_id = 2;
         $specimen02->father_code = NULL;
         $specimen02->mother_code = NULL;
         $specimen02->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -55,7 +53,6 @@ class SpecimenSeeder extends Seeder
         $specimen03->color_id = 3;
         $specimen03->category_id = 1;
         $specimen03->breeder_id = 3;
-        $specimen03->owner_id = 3;
         $specimen03->father_code = NULL;
         $specimen03->mother_code = NULL;
         $specimen03->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -71,7 +68,6 @@ class SpecimenSeeder extends Seeder
         $specimen04->color_id = 4;
         $specimen04->category_id = 1;
         $specimen04->breeder_id = 1;
-        $specimen04->owner_id = 1;
         $specimen04->father_code = NULL;
         $specimen04->mother_code = NULL;
         $specimen04->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -87,7 +83,6 @@ class SpecimenSeeder extends Seeder
         $specimen05->color_id = 5;
         $specimen05->category_id = 1;
         $specimen05->breeder_id = 2;
-        $specimen05->owner_id = 2;
         $specimen05->father_code = NULL;
         $specimen05->mother_code = NULL;
         $specimen05->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -103,7 +98,6 @@ class SpecimenSeeder extends Seeder
         $specimen06->color_id = 6;
         $specimen06->category_id = 1;
         $specimen06->breeder_id = 3;
-        $specimen06->owner_id = 3;
         $specimen06->father_code = NULL;
         $specimen06->mother_code = NULL;
         $specimen06->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -119,7 +113,6 @@ class SpecimenSeeder extends Seeder
         $specimen07->color_id = 7;
         $specimen07->category_id = 1;
         $specimen07->breeder_id = 1;
-        $specimen07->owner_id = 1;
         $specimen07->father_code = NULL;
         $specimen07->mother_code = NULL;
         $specimen07->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -135,7 +128,6 @@ class SpecimenSeeder extends Seeder
         $specimen08->color_id = 8;
         $specimen08->category_id = 1;
         $specimen08->breeder_id = 2;
-        $specimen08->owner_id = 2;
         $specimen08->father_code = NULL;
         $specimen08->mother_code = NULL;
         $specimen08->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -151,7 +143,6 @@ class SpecimenSeeder extends Seeder
         $specimen09->color_id = 9;
         $specimen09->category_id = 1;
         $specimen09->breeder_id = 3;
-        $specimen09->owner_id = 3;
         $specimen09->father_code = "EJE0001";
         $specimen09->mother_code = "EJE0002";
         $specimen09->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -167,7 +158,6 @@ class SpecimenSeeder extends Seeder
         $specimen10->color_id = 10;
         $specimen10->category_id = 1;
         $specimen10->breeder_id = 1;
-        $specimen10->owner_id = 1;
         $specimen10->father_code = "EJE0003";
         $specimen10->mother_code = "EJE0004";
         $specimen10->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -183,7 +173,6 @@ class SpecimenSeeder extends Seeder
         $specimen11->color_id = 11;
         $specimen11->category_id = 1;
         $specimen11->breeder_id = 2;
-        $specimen11->owner_id = 2;
         $specimen11->father_code = "EJE0005";
         $specimen11->mother_code = "EJE0006";
         $specimen11->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -199,7 +188,6 @@ class SpecimenSeeder extends Seeder
         $specimen12->color_id = 12;
         $specimen12->category_id = 1;
         $specimen12->breeder_id = 3;
-        $specimen12->owner_id = 3;
         $specimen12->father_code = "EJE0007";
         $specimen12->mother_code = "EJE0008";
         $specimen12->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -215,7 +203,6 @@ class SpecimenSeeder extends Seeder
         $specimen13->color_id = 13;
         $specimen13->category_id = 1;
         $specimen13->breeder_id = 1;
-        $specimen13->owner_id = 1;
         $specimen13->father_code = "EJE0009";
         $specimen13->mother_code = "EJE0010";
         $specimen13->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -231,7 +218,6 @@ class SpecimenSeeder extends Seeder
         $specimen14->color_id = 14;
         $specimen14->category_id = 1;
         $specimen14->breeder_id = 2;
-        $specimen14->owner_id = 2;
         $specimen14->father_code = "EJE0011";
         $specimen14->mother_code = "EJE0012";
         $specimen14->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
@@ -247,7 +233,6 @@ class SpecimenSeeder extends Seeder
         $specimen15->color_id = 15;
         $specimen15->category_id = 1;
         $specimen15->breeder_id = 3;
-        $specimen15->owner_id = 3;
         $specimen15->father_code = "EJE0013";
         $specimen15->mother_code = "EJE0014";
         $specimen15->notes = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
